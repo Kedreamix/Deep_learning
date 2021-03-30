@@ -1,7 +1,5 @@
 # Deep_learning
 
-# Machine Learning
-
 #### Description
 Record every step I take in machine learning
 
