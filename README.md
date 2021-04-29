@@ -8,7 +8,7 @@ Record every step I take in machine learning
 在这里面我会记录一下我在机器学习中一步一步的路程，我一定会慢慢努力的哈哈
 
 #### <font face="微软雅黑" size=4>吴恩达机器学习课程练习 <font face="Courier New" size=6>Exercise
-1. [<font face="Courier New" size=4>**ex1 Linear Regression**](https://github.com/Dreaming-future/Deep_learning/blob/main/1.Titantic.ipynb) [CSDN](https://blog.csdn.net/weixin_45508265/article/details/112690593)
+1. [<font face="Courier New" size=4>**ex1 Linear Regression**](https://blog.csdn.net/weixin_45508265/article/details/112690593)
 2. [<font face="Courier New" size=4>**ex2 Logistic Regression**](https://blog.csdn.net/weixin_45508265/article/details/113062255)
 3. [<font face="Courier New" size=4>**ex3 Multi-class Classfication and Neural Networks**](https://blog.csdn.net/weixin_45508265/article/details/113504698)
 3. [<font face="Courier New" size=4>**ex4 Neural Networks Learning**](https://blog.csdn.net/weixin_45508265/article/details/113775898)
