@@ -28,18 +28,29 @@ Record every step I take in machine learning
 4. [<font face="Courier New" size=4>PCA数学原理](https://blog.csdn.net/weixin_45508265/article/details/114702848)
 5. [<font face="Courier New" size=4>李航统计学习方法 Chapter1](https://blog.csdn.net/weixin_45508265/article/details/115967516)
 6. [<font face="Courier New" size=4>李航统计学习方法 Chapter2](https://blog.csdn.net/weixin_45508265/article/details/115982902)
-7. [<font face="Courier New" size=4>多元函数的泰勒展开Talor以及黑塞矩阵](https://blog.csdn.net/weixin_45508265/article/details/116194941)
+7. [<font face="Courier New" size=4>李航统计学习方法 Chapter3 k近邻法](https://blog.csdn.net/weixin_45508265/article/details/116308862)
+8. [<font face="Courier New" size=4>多元函数的泰勒展开Talor以及黑塞矩阵](https://blog.csdn.net/weixin_45508265/article/details/116194941)
 ---
+#### <font face="微软雅黑" size=4>有趣的实践<font face="Courier New" size=6>Have A Fun
+1. [<font face="Courier New" size=4>[词云可视化：四行代码从入门到精通](https://blog.csdn.net/weixin_45508265/article/details/116311272)
+2. <font face="Courier New" size=4>[多种好看好玩的词云例子Example](https://blog.csdn.net/weixin_45508265/article/details/116358751)
+3. <font face="Courier New" size=4>[词云进阶：神奇的stylecloud](https://blog.csdn.net/weixin_45508265/article/details/116425371)
+4. <font face="Courier New" size=4>[全球疫情形势动态地图展示(超帅超好玩的python动图)](https://blog.csdn.net/weixin_45508265/article/details/116521226)
+5. <font face="Courier New" size=4>[新冠疫情形势气泡图(python还有这么可爱的气泡图哦)](https://blog.csdn.net/weixin_45508265/article/details/116568820)
+
 #### <font face="微软雅黑" size=4>初学者的福音 <font face="Courier New" size=6>Machine Learning
 1. [<font face="Courier New" size=4>*PYTHON机器学习基础*](https://blog.csdn.net/weixin_45508265/article/details/116273371)
 2. [<font face="Courier New" size=4>*监督学习之分类学习:线性分类器*](https://blog.csdn.net/weixin_45508265/article/details/116273921)
-
+3. [<font face="Courier New" size=4>*监督学习之分类学习:支持向量机*](https://blog.csdn.net/weixin_45508265/article/details/116277746)
 ---
+
 
 许多详细的讲解都可以看我的[博客的机器学习之路](https://blog.csdn.net/weixin_45508265/article/details/114663239),一定不会让你们失望的拉
 
 
 有些数据太大，只能靠百度网盘
-- 百度网盘
+
+- 路径1：[Gitee](https://gitee.com/DK-Jun/csdn) [GitHub](https://github.com/Dreaming-future/Deep_learning)
+- 路径2：百度网盘
 - 链接：[https://pan.baidu.com/s/1uA5YU06FEW7pW8g9KaHaaw ](https://pan.baidu.com/s/1uA5YU06FEW7pW8g9KaHaaw )
 - 提取码：5605 
