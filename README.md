@@ -1,6 +1,7 @@
 # Deep_learning
 
 #### Description
+
 Record every step I take in machine learning
 
 #### Introduction
@@ -14,13 +15,18 @@ Record every step I take in machine learning
 3. [<font face="Courier New" size=4>**ex4 Neural Networks Learning**](https://blog.csdn.net/weixin_45508265/article/details/113775898)
 ---
 #### <font face="微软雅黑" size=4>机器学习实战项目 <font face="Courier New" size=6>Project
+
 1. [<font face="Courier New" size=4>泰坦尼克号生存预测 <font face="Courier New" size=4>Titantic](https://blog.csdn.net/weixin_45508265/article/details/112703541)
 2. [<font face="Courier New" size=4>波士顿房价预测 <font face="Courier New" size=4>Boston Housing](https://blog.csdn.net/weixin_45508265/article/details/113255859)
 3. [<font face="Courier New" size=4>预测汽车油耗效率 <font face="Courier New" size=4>MPG](https://blog.csdn.net/weixin_45508265/article/details/113577921)
 4. [<font face="Courier New" size=4>好事达保险索赔预测 Allstate Claims Severity （xgboost)](https://blog.csdn.net/weixin_45508265/article/details/113601400)
+5. [<font face="Courier New" size=4>手写数字识别 Digit Recognizer (LetNet)](https://blog.csdn.net/weixin_45508265/article/details/117527922)
+6. [<font face="Courier New" size=4>VGG 系列的探索与pytorch实现 (CIFAR10 分类问题) - Acc: 92.58 % (一文可通VGG + pytorch)](https://blog.csdn.net/weixin_45508265/article/details/117071577)
+7. [<font face="Courier New" size=4>10行代码搞定一个决策树](https://blog.csdn.net/weixin_45508265/article/details/117998657)
 ---
 
 #### <font face="微软雅黑" size=4>学习心得 <font face="Courier New" size=6>Note
+
 1. [<font face="Courier New" size=4>机器学习之一：什么是机器学习？](https://blog.csdn.net/weixin_45508265/article/details/114642141?spm=1001.2014.3001.5501)
 2. [<font face="Courier New" size=4>机器学习之二：回归分析](https://blog.csdn.net/weixin_45508265/article/details/114641804?spm=1001.2014.3001.5501)
 3. [<font face="Courier New" size=4>机器学习之三：降维技术](https://blog.csdn.net/weixin_45508265/article/details/114664548)
@@ -32,6 +38,7 @@ Record every step I take in machine learning
 8. [<font face="Courier New" size=4>多元函数的泰勒展开Talor以及黑塞矩阵](https://blog.csdn.net/weixin_45508265/article/details/116194941)
 ---
 #### <font face="微软雅黑" size=4>有趣的实践<font face="Courier New" size=6>Have A Fun
+
 1. [<font face="Courier New" size=4>[词云可视化：四行代码从入门到精通](https://blog.csdn.net/weixin_45508265/article/details/116311272)
 2. <font face="Courier New" size=4>[多种好看好玩的词云例子Example](https://blog.csdn.net/weixin_45508265/article/details/116358751)
 3. <font face="Courier New" size=4>[词云进阶：神奇的stylecloud](https://blog.csdn.net/weixin_45508265/article/details/116425371)
@@ -39,11 +46,21 @@ Record every step I take in machine learning
 5. <font face="Courier New" size=4>[新冠疫情形势气泡图(python还有这么可爱的气泡图哦)](https://blog.csdn.net/weixin_45508265/article/details/116568820)
 
 #### <font face="微软雅黑" size=4>初学者的福音 <font face="Courier New" size=6>Machine Learning
+
 1. [<font face="Courier New" size=4>*PYTHON机器学习基础*](https://blog.csdn.net/weixin_45508265/article/details/116273371)
 2. [<font face="Courier New" size=4>*监督学习之分类学习:线性分类器*](https://blog.csdn.net/weixin_45508265/article/details/116273921)
 3. [<font face="Courier New" size=4>*监督学习之分类学习:支持向量机*](https://blog.csdn.net/weixin_45508265/article/details/116277746)
 ---
 
+#### <font face="微软雅黑" size=4>有趣的实践<font face="Courier New" size=6>Have A Fun
+
+1. [<font face="Courier New" size=4>词云可视化：四行代码从入门到精通](https://blog.csdn.net/weixin_45508265/article/details/116311272)
+2. <font face="Courier New" size=4>[多种好看好玩的词云例子Example](https://blog.csdn.net/weixin_45508265/article/details/116358751)
+3. <font face="Courier New" size=4>[词云进阶：神奇的stylecloud](https://blog.csdn.net/weixin_45508265/article/details/116425371)
+4. <font face="Courier New" size=4>[全球疫情形势动态地图展示(超帅超好玩的python动图)](https://blog.csdn.net/weixin_45508265/article/details/116521226)
+5. <font face="Courier New" size=4>[新冠疫情形势气泡图(python还有这么可爱的气泡图哦)](https://blog.csdn.net/weixin_45508265/article/details/116568820)
+6. <font face="Courier New" size=4>[疫苗研发情况可视化(让你更加快的跟上全球化时代)](https://blog.csdn.net/weixin_45508265/article/details/116795919)
+7. <font face="Courier New" size=4>[各国疫苗接种进度（气泡图可视化）](https://blog.csdn.net/weixin_45508265/article/details/117256608)
 
 许多详细的讲解都可以看我的[博客的机器学习之路](https://blog.csdn.net/weixin_45508265/article/details/114663239),一定不会让你们失望的拉
 
