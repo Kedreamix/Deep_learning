@@ -406,7 +406,7 @@ res = opt.minimize(fun=regularized_cost,x0=theta,args=(X,y),method='CG',jac=regu
 res
 ```
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210129232924562.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTUwODI2NQ==,size_16,color_FFFFFF,t_70)
-## 2.7 Evaluating logistic regression
+## 2.6 Evaluating logistic regression
 
 ```python
 def predict(theta, X):
@@ -441,7 +441,7 @@ model.fit(X, y.ravel())
 ```python
 model.score(X, y)   # 0.8305084745762712
 ```
-## 2.6 Plotting the decision boundary
+## 2.7 Plotting the decision boundary
 $X × {\theta=0}$  (this is the line)
 <font size=3>在我们可视化的时候，我们发现，这个函数是不太好求的，我们利用等高线画图，最后将高度设为0，这样的话就可以得到我们的图了，真不错
 ```python
