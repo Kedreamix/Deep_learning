@@ -1,8 +1,20 @@
- <center><h2><i>Programming Exercise 1:
- <center> <i>Linear Regression Machine Learning
+# Programming Exercise 1:Linear Regression Machine Learning
 <br>
-
-
+    
+  
+- [Linear&nbsp;regression&nbsp;with&nbsp;one&nbsp;variable](#Linear-regression-with-one-variable)
+- [1.题目描述](#1题目描述)
+- [2.详细代码解释](#2详细代码解释)
+    - [1:首先导入相关的库包&nbsp;Import&nbsp;Libraries</font>](#step-1首先导入相关的库包-Import-Libraries)
+    - [2:读入数据&nbsp;Read-In&nbsp;Data</font>](#step--2读入数据-ReadIn-Data)
+    - [3:可视化散点图&nbsp;Visualized</font>](#step-3可视化散点图-Visualized)
+    - [4:计算代价函数的表达式J(θ)&nbsp;Cost&nbsp;Function</font>](#step-4计算代价函数的表达式Jθ-Cost-Function)
+    - [5:梯度下降算法&nbsp;Gradient&nbsp;Descent&nbsp;Algorithm</font>](#step-5梯度下降算法-Gradient-Descent-Algorithm)
+    - [6:正规方程&nbsp;Normal&nbsp;Equation</font>](#step-6正规方程-Normal-Equation)
+- [3.可视化结果](#3可视化结果)
+    - [可视化数据](#可视化数据)
+    - [导用库包](#导用库包)
+    - [完整代码](#完整代码)
 
 
 
