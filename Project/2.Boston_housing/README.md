@@ -3,7 +3,34 @@
 <font size=3>这是一个波士顿房价预测的一个实战，上一次的Titantic是生存预测，其实本质上是一个分类问题，就是根据数据分为1或为0，这次的波士顿房价预测更像是预测一个连续值，当然这也是一个非常经典的机器学习案例[Boston housing](https://www.kaggle.com/c/machine-learning-on-thursday/overview)
 <font size=3>如果想了解更多的知识，可以去我的机器学习之路 The Road To Machine Learning[通道](https://blog.csdn.net/weixin_45508265/article/details/114663239)
 
-[toc]
+- [波士顿房价预测 Boston housing](#波士顿房价预测-Boston-housing)
+- [活动背景](#活动背景)
+- [数据介绍](#数据介绍)
+- [详细代码解释](#详细代码解释)
+	- [导入Python Packages](#导入Python-Packages)
+	- [读入数据 Read-In Data](#读入数据-ReadIn-Data)
+	- [从Package读取Boston数据](#从Package读取Boston数据)
+- [相关性检验](#相关性检验)
+- [多变量研究](#多变量研究)
+- [划分训练集和测试集](#划分训练集和测试集)
+- [建立线性回归模型](#建立线性回归模型)
+	- [评价模型](#评价模型)
+- [进一步探索和模型改进](#进一步探索和模型改进)
+	- [特征选择重建模型](#特征选择重建模型)
+- [数据标准化](#数据标准化)
+- [模型优化和改进](#模型优化和改进)
+	- [GradientBoosting（梯度提升）](#GradientBoosting（梯度提升）)
+	- [Lasso 回归 （Least Absolute Shrinkage and Selection Operator）](#Lasso-回归-（Least-Absolute-Shrinkage-and-Selection-Operator）)
+	- [ElasticNet 回归](#ElasticNet-回归)
+	- [Support Vector Regression (SVR)](#Support-Vector-Regression-SVR)
+		- [linear 线性核函数](#linear-线性核函数)
+		- [poly 多项式核](#poly-多项式核)
+		- [rbf（Radial Basis Function） 径向基函数](#rbf（Radial-Basis-Function）-径向基函数)
+		- [SVM（支持向量机）回归-- 线性核](#SVM（支持向量机）回归-线性核)
+		- [SVM（支持向量机）回归-- 多项式核](#SVM（支持向量机）回归-多项式核)
+	- [决策树回归](#决策树回归)
+- [总结](#总结)
+
 
 # 活动背景
 ><font size=3>波士顿房地产市场竞争激烈，而你想成为该地区最好的房地产经纪人。为了更好地与同行竞争，你决定运用机器学习的一些基本概念，帮助客户为自己的房产定下最佳售价。幸运的是，你找到了波士顿房价的数据集，里面聚合了波士顿郊区包含多个特征维度的房价数据。你的任务是用可用的工具进行统计分析，并基于分析建立优化模型。这个模型将用来为你的客户评估房产的最佳售价。
