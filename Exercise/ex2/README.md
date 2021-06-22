@@ -1,7 +1,25 @@
- <center><h2><i>Programming Exercise 2:
- <center> <i>Logistic Regression Machine Learning
+# Programming Exercise 2: Logistic Regression Machine Learning
 <br>
-[toc]
+
+- [Introduction](#Introduction)
+- [1&nbsp;Logistic&nbsp;regression](#1-Logistic-regression)
+    - [1.1&nbsp;Visualizing&nbsp;the&nbsp;data](#11-Visualizing-the-data)
+    - [1.2&nbsp;Implementation](#12-Implementation)
+        - [1.2.1&nbsp;Warmup&nbsp;exercise:&nbsp;sigmoid&nbsp;function](#121-Warmup-exercise-sigmoid-function)
+        - [1.2.2&nbsp;Cost&nbsp;function](#122-Cost-function)
+        - [1.2.3&nbsp;Gradient](#123-Gradient)
+        - [1.2.4&nbsp;Learning&nbsp;&nbsp;θ&nbsp;parameters](#124-Learning--θ-parameters)
+        - [1.2.5&nbsp;Evaluating&nbsp;logistic&nbsp;regression](#125-Evaluating-logistic-regression)
+        - [1.3&nbsp;Decision&nbsp;boundary（决策边界）](#13-Decision-boundary（决策边界）)
+    - [2&nbsp;Regularized&nbsp;logistic&nbsp;regression](#2-Regularized-logistic-regression)
+        - [2.1&nbsp;Visualizing&nbsp;the&nbsp;data](#21-Visualizing-the-data)
+        - [2.2&nbsp;Feature&nbsp;mapping](#22-Feature-mapping)
+        - [2.3&nbsp;Cost&nbsp;function](#23-Cost-function)
+        - [2.4&nbsp;Regularized&nbsp;Gradient](#24-Regularized-Gradient)
+        - [2.5&nbsp;Learning&nbsp;&nbsp;θ&nbsp;parameters](#25-Learning--θ-parameters)
+        - [2.6&nbsp;Evaluating&nbsp;logistic&nbsp;regression](#27-Evaluating-logistic-regression)
+        - [2.7&nbsp;Plotting&nbsp;the&nbsp;decision&nbsp;boundary](#26-Plotting-the-decision-boundary)
+
 
 <font size=3>如果想了解更多的知识，可以去我的机器学习之路 The Road To Machine Learning[通道](https://blog.csdn.net/weixin_45508265/article/details/114663239)
 
