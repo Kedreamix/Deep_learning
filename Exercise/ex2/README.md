@@ -17,8 +17,8 @@
         - [2.3&nbsp;Cost&nbsp;function](#23-Cost-function)
         - [2.4&nbsp;Regularized&nbsp;Gradient](#24-Regularized-Gradient)
         - [2.5&nbsp;Learning&nbsp;&nbsp;θ&nbsp;parameters](#25-Learning--θ-parameters)
-        - [2.6&nbsp;Evaluating&nbsp;logistic&nbsp;regression](#27-Evaluating-logistic-regression)
-        - [2.7&nbsp;Plotting&nbsp;the&nbsp;decision&nbsp;boundary](#26-Plotting-the-decision-boundary)
+        - [2.6&nbsp;Evaluating&nbsp;logistic&nbsp;regression](#26-Evaluating-logistic-regression)
+        - [2.7&nbsp;Plotting&nbsp;the&nbsp;decision&nbsp;boundary](#27-Plotting-the-decision-boundary)
 
 
 <font size=3>如果想了解更多的知识，可以去我的机器学习之路 The Road To Machine Learning[通道](https://blog.csdn.net/weixin_45508265/article/details/114663239)
