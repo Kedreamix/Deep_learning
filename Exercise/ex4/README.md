@@ -1,8 +1,25 @@
- <center><h2><i>Programming Exercise 4:
- <center> <i>Neural Networks Learning Machine Learning
-<br>
+# Programming Exercise 4:Neural Networks Learning Machine Learning
 
-@[TOC](目录)
+    
+- [Introduction](#Introduction)
+- [1&nbsp;Neural&nbsp;Networks](#1-Neural-Networks)
+    - [1.1&nbsp;Visualizing&nbsp;the&nbsp;data](#11-Visualizing-the-data)
+    - [1.2&nbsp;Model&nbsp;representation](#12-Model-representation)
+    - [1.2.1&nbsp;对y进行one-hot编码](#121-对y进行onehot编码)
+    - [1.2.2&nbsp;load_weight](#122-loadweight)
+    - [1.2.3&nbsp;提取参数和展开参数](#123-提取参数和展开参数)
+- [1.3&nbsp;Feedforward&nbsp;and&nbsp;cost&nbsp;function](#13-Feedforward-and-cost-function)
+    - [1.3.1&nbsp;Feedforward](#131-Feedforward)
+    - [1.3.2&nbsp;Cost&nbsp;Function](#132-Cost-Function)
+- [2&nbsp;Backpropagation](#2-Backpropagation)
+    - [2.1&nbsp;Sigmoid&nbsp;gradient](#21-Sigmoid-gradient)
+    - [2.2&nbsp;Random&nbsp;initialization](#22-Random-initialization)
+    - [2.3&nbsp;Backpropagation](#23-Backpropagation)
+    - [2.4&nbsp;Gradient&nbsp;checking](#24-Gradient-checking)
+    - [2.5&nbsp;Regularized&nbsp;Neural&nbsp;Networks](#25-Regularized-Neural-Networks)
+    - [2.6&nbsp;Learning&nbsp;parameters&nbsp;using&nbsp;fmincg](#26-Learning-parameters-using-fmincg)
+- [3&nbsp;Visualizing&nbsp;the&nbsp;hidden&nbsp;layer](#3-Visualizing-the-hidden-layer)
+    - [3.1&nbsp;Optional&nbsp;(ungraded)&nbsp;exercise](#31-Optional-ungraded-exercise)
 
 <font size=3>如果想了解更多的知识，可以去我的机器学习之路 The Road To Machine Learning[通道](https://blog.csdn.net/weixin_45508265/article/details/114663239)
 # Introduction

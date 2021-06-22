@@ -1,7 +1,25 @@
- <center><h2><i>Programming Exercise 2:
- <center> <i>Logistic Regression Machine Learning
+# Programming Exercise 2: Logistic Regression Machine Learning
 <br>
-[toc]
+
+- [Introduction](#Introduction)
+- [1&nbsp;Logistic&nbsp;regression](#1-Logistic-regression)
+    - [1.1&nbsp;Visualizing&nbsp;the&nbsp;data](#11-Visualizing-the-data)
+    - [1.2&nbsp;Implementation](#12-Implementation)
+        - [1.2.1&nbsp;Warmup&nbsp;exercise:&nbsp;sigmoid&nbsp;function](#121-Warmup-exercise-sigmoid-function)
+        - [1.2.2&nbsp;Cost&nbsp;function](#122-Cost-function)
+        - [1.2.3&nbsp;Gradient](#123-Gradient)
+        - [1.2.4&nbsp;Learning&nbsp;&nbsp;θ&nbsp;parameters](#124-Learning--θ-parameters)
+        - [1.2.5&nbsp;Evaluating&nbsp;logistic&nbsp;regression](#125-Evaluating-logistic-regression)
+        - [1.3&nbsp;Decision&nbsp;boundary（决策边界）](#13-Decision-boundary（决策边界）)
+        - [2&nbsp;Regularized&nbsp;logistic&nbsp;regression](#2-Regularized-logistic-regression)
+- [2.1&nbsp;Visualizing&nbsp;the&nbsp;data](#21-Visualizing-the-data)
+   - [2.2&nbsp;Feature&nbsp;mapping](#22-Feature-mapping)
+   - [2.3&nbsp;Cost&nbsp;function](#23-Cost-function)
+   - [2.4&nbsp;Regularized&nbsp;Gradient](#24-Regularized-Gradient)
+   - [2.5&nbsp;Learning&nbsp;&nbsp;θ&nbsp;parameters](#25-Learning--θ-parameters)
+   - [2.6&nbsp;Evaluating&nbsp;logistic&nbsp;regression](#26-Evaluating-logistic-regression)
+   - [2.7&nbsp;Plotting&nbsp;the&nbsp;decision&nbsp;boundary](#27-Plotting-the-decision-boundary)
+
 
 <font size=3>如果想了解更多的知识，可以去我的机器学习之路 The Road To Machine Learning[通道](https://blog.csdn.net/weixin_45508265/article/details/114663239)
 
@@ -388,7 +406,7 @@ res = opt.minimize(fun=regularized_cost,x0=theta,args=(X,y),method='CG',jac=regu
 res
 ```
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210129232924562.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTUwODI2NQ==,size_16,color_FFFFFF,t_70)
-## 2.7 Evaluating logistic regression
+## 2.6 Evaluating logistic regression
 
 ```python
 def predict(theta, X):
@@ -423,7 +441,7 @@ model.fit(X, y.ravel())
 ```python
 model.score(X, y)   # 0.8305084745762712
 ```
-## 2.6 Plotting the decision boundary
+## 2.7 Plotting the decision boundary
 $X × {\theta=0}$  (this is the line)
 <font size=3>在我们可视化的时候，我们发现，这个函数是不太好求的，我们利用等高线画图，最后将高度设为0，这样的话就可以得到我们的图了，真不错
 ```python

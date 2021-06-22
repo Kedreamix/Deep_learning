@@ -1,9 +1,18 @@
- <center><h2><i>Programming Exercise 3:
- <center> <i>Multi-class Classfication and Neural Networks 
-Machine Learning
-<br>
+# Programming Exercise 3:Multi-class Classfication and Neural Networks 
 
-@[TOC](目录)
+- [Introduction](#Introduction)
+- [1&nbsp;Multi-class&nbsp;Classfication](#1-Multiclass-Classfication)
+    - [1.1&nbsp;Dataset](#11-Dataset)
+    - [1.2&nbsp;Visualizing&nbsp;the&nbsp;data](#12-Visualizing-the-data)
+    - [1.3&nbsp;Vectorizing&nbsp;Logistic&nbsp;Regression](#13-Vectorizing-Logistic-Regression)
+        - [1.3.1&nbsp;Vectorizing&nbsp;the&nbsp;regularized&nbsp;cost&nbsp;function](#131-Vectorizing-the-regularized-cost-function)
+        - [1.3.2&nbsp;Vectorizing&nbsp;the&nbsp;regularized&nbsp;gradient](#132-Vectorizing-the-regularized-gradient)
+    - [1.4&nbsp;One-vs-all&nbsp;Classfication](#14-Onevsall-Classfication)
+- [2&nbsp;Neural&nbsp;Networks](#2-Neural-Networks)
+    - [2.1&nbsp;Model&nbsp;representation](#21-Model-representation)
+    - [2.2&nbsp;Feedforward&nbsp;Propagation&nbsp;and&nbsp;Prediction](#22-Feedforward-Propagation-and-Prediction)
+
+
 
 <font size=3>如果想了解更多的知识，可以去我的机器学习之路 The Road To Machine Learning[通道](https://blog.csdn.net/weixin_45508265/article/details/114663239)
 # Introduction
