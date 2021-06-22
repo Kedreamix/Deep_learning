@@ -5,7 +5,22 @@
 
 <font size=3>如果想了解更多的知识，可以去我的机器学习之路 The Road To Machine Learning[通道](https://blog.csdn.net/weixin_45508265/article/details/114663239)
 
-[toc]
+- [ 好事达保险索赔预测 Allstate Claims Severity （xgboost)](#-好事达保险索赔预测-Allstate-Claims-Severity-（xgboost)
+- [Overview](#Overview)
+- [Data](#Data)
+- [Read In Data](#Read-In-Data)
+- [IsNULL](#IsNULL)
+- [False](#False)
+- [Continuous vs Caterogical features](#Continuous-vs-Caterogical-features)
+- [Data Processing](#Data-Processing)
+- [连续值特征](#连续值特征)
+- [离散型特征](#离散型特征)
+- [特征工程](#特征工程)
+- [建立模型](#建立模型)
+	- [LinearRegression](#LinearRegression)
+	- [LinearSVR](#LinearSVR)
+- [GBDT](#GBDT)
+
 
 # Overview
 
